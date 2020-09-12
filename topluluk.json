@@ -1,0 +1,20 @@
+[
+    {
+        "kodlar": {
+            "Seslide Durana Otorol v12": {
+                "isim": "Seslide Durana Otorol v12",
+                "id": "EWhAKeh633",
+                "desc": "Süresi Ayarlanabilir Seslide Durana Otorol Komutu",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/244912891734654977/e2f4c91e7a0d2dbfc3a0f4fa1fc7e5c4.png",
+                "main_code": "client.on('voiceStateUpdate', member => {\r\nclient.guilds.cache.get(\"712978502176997380\").channels.cache.get('737247559231209553').members.forEach(codework =>{ //başa sunucu id si, 2.ci yere sesli kanal idsi\r\n  setTimeout(() => {\r\ncodework.roles.add('753924983188750336') //verilecek rol id\r\n }, 5000) // 1000 = 1 saniye\r\n})\r\n})",
+                "komutlar_code": "yok",
+                "kod_rank": "topluluk",
+                "k_adi": "! Executioner",
+                "date": "9/11/2020"
+            }
+        }
+    }
+]

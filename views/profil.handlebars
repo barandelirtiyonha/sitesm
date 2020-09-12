@@ -1,0 +1,35 @@
+<title>CodeWork | {{member.user.username}}</title> <br><br> <div class="container">
+    <div>
+
+      <center>
+      <a href="https://discordapp.com/users/{{member.user.id}}" class="twPc-avatarLink">
+        <img alt="Avatar" src="{{avatarURL}}" class="twPc-avatarImg">
+      </a>
+      <div class="twPc-divUser">
+        <div class="twPc-divName">
+          {{member.user.username}}
+        </div>
+
+        
+    
+        
+<hr>
+                <span>
+          {{#if perms.yetkili}}
+            <span>Kod Paylaşım Yetkilisi</span>
+          {{else}}
+            {{#if perms.destekçi}}
+              <span>CodeWork Destekçisi</span>
+            {{else}}
+              <span>Kullanıcı</span>
+            {{/if}}
+          {{/if}}
+        </span>
+    </div>
+        
+        Paylaştığı Kodlar <font color="red">&</font> Yardım Ettiği Kodlar ( <font color="#0069d9">{{#if stats}} {{stats.paylasilan}} {{/if}} </font> )
+
+  </div>
+      </center>
+</div>
+

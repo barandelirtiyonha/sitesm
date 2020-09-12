@@ -1,0 +1,90 @@
+[
+    {
+        "kodlar": {
+            "MC-AT Otorol": {
+                "isim": "MC-AT Otorol",
+                "id": "gW0SBMlEr5",
+                "desc": "mc-at otorol sistemi!",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/536470606166622208/a_fa6551f03701e0d899f964c5e2598125.png",
+                "main_code": "Maine Atılacak = https://alpha-hastebin.glitch.me/bxUDYITeQq\r\nAlternatif Link = https://judge-developer-hastebin.glitch.me/tODAUXUaul",
+                "komutlar_code": "Komutlara Atılacak = https://alpha-hastebin.glitch.me/U9NoWC3xKB\r\nAlternatif Link = https://judge-developer-hastebin.glitch.me/b8wSzqccf0\r\nkomutlar/otorol-ayarla.js\r\n-\r\nKomutlara Atılacak = https://alpha-hastebin.glitch.me/Pj8QLAyB8h\r\nAlternatif Link = https://judge-developer-hastebin.glitch.me/mQ2y5Cukn7\r\nkomutlar/otorol-mesajı.js\r\n-\r\nKomutlara Atılacak = https://alpha-hastebin.glitch.me/jCpPAcehgA\r\nAlternatif Link = https://judge-developer-hastebin.glitch.me/Fmlv11DNOb\r\nkomutlar/otorolkapat.js",
+                "kod_rank": "altin",
+                "k_adi": "Barann",
+                "date": "9/7/2020"
+            },
+            "Mee6 Altyapısı": {
+                "isim": "Mee6 Altyapısı",
+                "id": "NelgSrIWjj",
+                "desc": "Mee6 Bot Benzeri Altyapısı",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/536470606166622208/a_fa6551f03701e0d899f964c5e2598125.png",
+                "main_code": "https://glitch.com/~mee6-alpha-altyapi\r\nAltyapıyı Ben Yapmadım Bana Arkadaşım Attı Nasıl Kullanılcağını Bilmiyorum.\r\nToken VS Girmek İçin ;\r\nenvfile.list Kısmı.",
+                "komutlar_code": "https://glitch.com/~mee6-alpha-altyapi\r\nAltyapıyı Ben Yapmadım Bana Arkadaşım Attı Nasıl Kullanılcağını Bilmiyorum.\r\nToken VS Girmek İçin ;\r\nenvfile.list Kısmı.",
+                "kod_rank": "altin",
+                "k_adi": "Barann",
+                "date": "9/9/2020"
+            },
+            "MC-AT Altyapısı": {
+                "isim": "MC-AT Altyapısı",
+                "id": "47RrplDyhC",
+                "desc": "MC-AT Benzeri Güzel Altyapı",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/536470606166622208/a_fa6551f03701e0d899f964c5e2598125.png",
+                "main_code": "https://glitch.com/~alpha-code-karisik\r\nMC-AT Benzeri\r\n10 Numara 5 yıldız Altyapı.",
+                "komutlar_code": "https://glitch.com/~alpha-code-karisik\r\nMC-AT Benzeri\r\n10 Numara 5 yıldız Altyapı.",
+                "kod_rank": "altin",
+                "k_adi": "Barann",
+                "date": "9/9/2020"
+            },
+            "Ekonomi Altyapısı": {
+                "isim": "Ekonomi Altyapısı",
+                "id": "79iz9UqUgZ",
+                "desc": "Ekonomi Bot Altyapısı",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/536470606166622208/a_fa6551f03701e0d899f964c5e2598125.png",
+                "main_code": "https://glitch.com/~codeshare-ekonomi",
+                "komutlar_code": "https://glitch.com/~codeshare-ekonomi",
+                "kod_rank": "altin",
+                "k_adi": "Barann",
+                "date": "9/9/2020"
+            },
+            "İnvite Manager Altyapı": {
+                "isim": "İnvite Manager Altyapı",
+                "id": "n1OlitNxNU",
+                "desc": "gelişmiş İnvite manager altyapısı",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/536470606166622208/a_fa6551f03701e0d899f964c5e2598125.png",
+                "main_code": "https://glitch.com/~codework-invite",
+                "komutlar_code": "https://glitch.com/~codework-invite",
+                "kod_rank": "altin",
+                "k_adi": "Barann",
+                "date": "9/9/2020"
+            },
+            "Ayarlamalı Kayıt Sistemi": {
+                "isim": "Ayarlamalı Kayıt Sistemi",
+                "id": "6AbeqrCZQg",
+                "desc": "mc-at gibi ayarlamalı kayıt sistemi",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/536470606166622208/a_fa6551f03701e0d899f964c5e2598125.png",
+                "main_code": "KOD TAMAMİYLE BANA AİTTİR! BAŞKA SUNUCULARDA PAYLAŞILMASI YASAKTIR!\r\n\r\n--EMEK HIRSIZLIĞI YAPMAYINIZ--\r\n\r\n--MAİN YOK SADECE KOMUTLAR VAR--\r\n\r\n--KOMUTLARI AŞŞAĞIYA //İSİM DİYE AYIRA AYIRA YAZDIM--\r\n\r\n--KODUN SAHİBİ - CODEWORK SAHİBİDİR!--",
+                "komutlar_code": "//KAYIT KOMUTU\r\nconst Discord = require('discord.js');\r\nconst db = require('quick.db');\r\n\r\nexports.run = async (client, message, args) => {\r\n\r\n  const codework = await db.fetch(`kayıtk_${message.guild.id}`)\r\n  \r\n  if(codework == null) return message.channel.send('Bu Sistemi Kullanabilmek İçin Bu Şekilde Ayarlamalısın; <`-kayıt-rol @rol`/`-kayıt-alınacak-rol @rol`/`-kayıt-kanal #kanal`/`-kayıt-log #kanal`>');\r\n  if (message.channel.id !== codework) return message.channel.send(`Kayıt Kanalı <#${codework}> Olarak Ayarlanmış!`);\r\n  if (codework == true) return; \r\n  if (codework == false) return message.channel.send(`Bu Sunucuda Kayıt Sistemi Aktif Edilmemiş.`);\r\n \r\n  let user = message.member\r\n  let guild = message.guild\r\n  let isim = args[0];\r\n  let yas = args[1];\r\n  if (!isim) return message.channel.send(`İsmini girmelisin.`)\r\n  if (!yas) return message.channel.send(`Yaşını girmelisin.`)\r\n  \r\n  user.setNickname(`[${isim}] [${yas}]`)\r\n  setTimeout(function(){user.addRole(db.fetch(`kayıt_${message.guild.id}`))},3000)\r\n  setTimeout(function(){user.removeRole(db.fetch(`kayıtalınacak_${message.guild.id}`))},4000)\r\n  message.channel.send(`${message.author} Sunucuya Başarıyla Kayıt oldun !`)\r\n  message.guild.channels.get(db.fetch(`kayıtlog_${message.guild.id}`)).send(`<a:kayit:707928076926976061> ${message.author} Adlı kullanıcı Başarılı Şekilde Kayıt Oldu ! <a:oldu:707928398902853713> `);\r\n\r\n};\r\n\r\nexports.conf = {\r\n  enabled: true,\r\n  guildOnly: true,\r\n  aliases: [],\r\n  permLevel: 0,\r\n  kategori: \"yetkili\"\r\n}\r\n\r\nexports.help = {\r\n  name: 'kayıt',\r\n  description: \"Sunucuya kayıtolmaya yarar\",\r\n  usage: 'kayıt <isim> <yaş>'\r\n}\r\n\r\n//KAYIT KANAL KOMUTU\r\nconst Discord = require('discord.js');\r\nconst db = require('quick.db');\r\n\r\nexports.run = async (client, message, args) => {\r\n let kanal = message.mentions.channels.first()\r\nif (!kanal) return message.channel.send('Lütfen Kayıt Kanalını Etiketlermisin?')\r\n   \r\n  db.set(`kayıtk_${message.guild.id}`, kanal.id)\r\n\r\n \r\n  message.channel.send(`Kayıt Kanalı Başarıyla Ayarlandı; **${kanal}**`)\r\n };\r\n\r\nexports.conf = {\r\n enabled: true,\r\n guildOnly: false,\r\n aliases: [],\r\n permLevel: 3,\r\nkategori:\"yetkili\"\r\n};\r\n\r\nexports.help = {\r\n name: 'kayıt-kanal',\r\n description: 'kayıt kanalı Olunacak kanalı seçersiniz',\r\n usage: 'kayıt-kanal <#kanal>'\r\n};\r\n\r\n//KAYIT LOG KOMUTU\r\n\r\nconst Discord = require('discord.js');\r\nconst db = require('quick.db');\r\n\r\nexports.run = async (client, message, args) => {\r\n let kanal = message.mentions.channels.first()\r\nif (!kanal) return message.channel.send('Lütfen Kayıt Log Kanalını Etiketlermisin?')\r\n   \r\n  db.set(`kayıtlog_${message.guild.id}`, kanal.id)\r\n  message.channel.send(`Kayıt Log Kanalı Başarıyla Ayarlandı; **${kanal}**`)\r\n };\r\n\r\nexports.conf = {\r\n enabled: true,\r\n guildOnly: false,\r\n aliases: [],\r\n permLevel: 3,\r\nkategori:\"yetkili\"\r\n};\r\n\r\nexports.help = {\r\n name: 'kayıt-log',\r\n description: 'kayıt Log kanalı seçersiniz',\r\n usage: 'kayıt-log <#kanal>'\r\n};\r\n\r\n//KAYIT ROL KOMUTU\r\n\r\nconst Discord = require('discord.js');\r\nconst db = require('quick.db');\r\n\r\nexports.run = async (client, message, args) => {\r\n  let rol = message.mentions.roles.first()\r\n  if (!rol) return message.channel.send('Lütfen verilecek rolü etiketlermisin?')\r\n   \r\n  db.set(`kayıt_${message.guild.id}`, rol.id)\r\n  message.channel.send(`Verilecek Rol Başarıyla Ayarlandı; **${rol}**`)\r\n };\r\n\r\nexports.conf = {\r\n enabled: true,\r\n guildOnly: false,\r\n aliases: [],\r\n permLevel: 3,\r\n  kategori:\"yetkili\"\r\n};\r\n\r\nexports.help = {\r\n name: 'kayıt-rol',\r\n description: 'kayıt Olunca Verilecek rolü ayarlarsınız',\r\n usage: 'kayıt-rol <@rol>'\r\n};\r\n\r\n//KAYIT ALINACAK ROL KOMUTU\r\n\r\nconst Discord = require('discord.js');\r\nconst db = require('quick.db');\r\n\r\nexports.run = async (client, message, args) => {\r\n  let rol2 = message.mentions.roles.first()\r\n  if (!rol2) return message.channel.send('Lütfen Alınacak rolü etiketlermisin?')\r\n   \r\n  db.set(`kayıtalınacak_${message.guild.id}`, rol2.id)\r\n  message.channel.send(`Alınacak Rol Başarıyla Ayarlandı; **${rol2}**`)\r\n };\r\n\r\nexports.conf = {\r\n enabled: true,\r\n guildOnly: false,\r\n aliases: [],\r\n permLevel: 3,\r\n  kategori:\"yetkili\"\r\n};\r\n\r\nexports.help = {\r\n name: 'kayıt-alınacak-rol',\r\n description: 'kayıt Olunca Verilecek rolü ayarlarsınız',\r\n usage: 'kayıt-rol <@rol>'\r\n};",
+                "kod_rank": "altin",
+                "k_adi": "Barann",
+                "date": "9/11/2020"
+            }
+        }
+    }
+]
